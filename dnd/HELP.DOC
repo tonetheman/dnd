@@ -1,0 +1,19 @@
+                            How to Get Started
+                            ------------------
+
+
+1) Type DIR at the DOS prompt to show you the files on the disk.
+2) Look for a file that may tell you how to start up the program. Look for
+   files with names such as READ.ME, [filename].DOC, MANUAL.[ext], that will
+   most likely tell you how to begin.
+3) To read the file you have chosen, enter: TYPE filename.ext  at the DOS 
+   prompt. By entering TYPE and then the filename (then the enter key), the
+   the file's text will then start scrolling on the screen for you to read.
+4) In order to stop the screen, hit the "control" and "s" keys at the same
+   time. To begin scrolling again, hit any key.
+5) If you want to print the entire file, hit the "control" and "P" keys     
+   BEFORE you start scrolling the file (e.g., TYPE filename.ext). After it
+   has finished printing, hit the "control" and "P" keys to take the computer
+   out of the print mode. If you want to print what is on the screen at the 
+   time, stop the scrolling and hit the "print screen" key.
+
